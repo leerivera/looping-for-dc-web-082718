@@ -1,7 +1,8 @@
 
-def using_for
+def using_for_charm
 	checklist = 1..10
-	#your code here
+	for charm in using_for_charm
+	 puts "Wingardium Leviosa"
 end
 
 
