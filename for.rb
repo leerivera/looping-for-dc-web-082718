@@ -4,6 +4,5 @@ def using_for_charm
 	for charm in using_for_charm
 	 puts "Wingardium Leviosa"
  end
-end
 
 
